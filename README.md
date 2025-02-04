@@ -12,6 +12,8 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 ### Design Files
 
+## Published Link: https://tvsnxttrendz.ccbp.tech/
+
 <details>
 <summary>Click to view</summary>
 
